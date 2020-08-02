@@ -1,0 +1,1 @@
+class Geocode < ApplicationRecord; end
